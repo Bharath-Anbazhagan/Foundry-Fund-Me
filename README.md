@@ -142,6 +142,6 @@ forge fmt
 
 # Thank you!
 
-If you appreciated this, feel free to follow me!
+If you appreciated this, feel free to Connect With Me!
 
 [![Bharath Anbazhagan Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-anbazhagan/)
